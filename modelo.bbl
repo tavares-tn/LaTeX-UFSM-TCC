@@ -1,0 +1,44 @@
+\begin{thebibliography}{\hspace{\parindent}}
+
+\bibitem[ABOWD et~al.(1999)ABOWD; DEY; BROWN; DAVIES; SMITH;
+  STEGGLES]{Abowd:1999} ABOWD, G.~D. et~al\@. Towards a Better Understanding of
+  Context and Context-Awareness. In: HUC '99: PROCEEDINGS OF THE 1ST
+  INTERNATIONAL SYMPOSIUM ON HANDHELD AND UBIQUITOUS COMPUTING, London, UK.
+  \textbf{Anais{\ldots}} Springer Berlin / Heidelberg, 1999. p.304--307.
+  (Lecture Notes in Computer Science, v.1707).
+
+\bibitem[LEE; PARK; LEE(2009)LEE; PARK; LEE]{Lee:2009} LEE, S.; PARK, S.; LEE,
+  S.-g\@. A Study on Issues in Context-Aware Systems Based on a Survey and
+  Service Scenarios. In: ACIS INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING,
+  ARTIFICIAL INTELLIGENCES, NETWORKING AND PARALLEL/DISTRIBUTED COMPUTING,
+  2009., Washington, DC, USA. \textbf{Proceedings{\ldots}} IEEE Computer
+  Society, 2009. p.8--13. (SNPD '09).
+
+\bibitem[NORELL(2007)NORELL]{norell:thesis} NORELL, U\@. \textbf{Towards a
+  practical programming language based on dependent type theory}. 2007. Tese
+  (Doutorado em Ci{\^e}ncia da Computa{\c{c}}{\~a}o) --- Department of Computer
+  Science and Engineering, Chalmers University of Technology, SE-412 96
+  G{\"o}teborg, Sweden.
+
+\bibitem[SANTOS; MARTINS(2016)SANTOS; MARTINS]{dos2016comparativo} SANTOS,
+  L.~N.~dos; MARTINS, H.~P\@. Comparativo das funcionalidades das ferramentas
+  open-source Zabbix e Cacti. \textbf{Caderno de Estudos Tecnol{\'o}gicos},
+  [S.l.], v.4, n.1, 2016.
+
+\bibitem[SEBESTA(2005)SEBESTA]{Sebesta:2005} SEBESTA, R.~W\@. \textbf{Concepts
+  of Programming Languages}. 7th.ed. Boston, MA, USA: Addison-Wesley Longman
+  Publishing Co., Inc., 2005.
+
+\bibitem[SUN(2010)SUN]{Sun:2010} SUN. \textbf{Getting Started With JavaSpaces
+  Technology}. Acessado em Mar{\c{c}}o/2011,
+  http://java.sun.com/developer/technicalArticles/tools/JavaSpaces.
+
+\bibitem[WEISER(1991)WEISER]{Weiser:1991} WEISER, M\@. The Computer for the
+  21st Century. \textbf{Scientific American}, [S.l.], v.265, n.3, p.94--104,
+  September~1991.
+
+\bibitem[WRIGHT(2010)WRIGHT]{Alex:2010} WRIGHT, A\@. Type theory comes of age.
+  \textbf{Communications of the ACM}, New York, NY, USA, v.53, n.2, p.16--17,
+  2010.
+
+\end{thebibliography}
